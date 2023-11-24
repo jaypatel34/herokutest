@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "aws"
+        "test": "aws --help"
       }
     }
   }
